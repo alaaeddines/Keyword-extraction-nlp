@@ -1,5 +1,5 @@
-# Implementation of 8 NLP algorithms
- Implementation of 8 NLP algorithms on 3 datasets
+# Implementation of 8 NLP algorithms for keywords extraction
+ Implementation of 8 NLP algorithms on 3 different datasets
 
 NLP algorithms implementd :
 			     - TF-IDF
@@ -10,6 +10,9 @@ NLP algorithms implementd :
 			     - KEA
 			     - KP-Miner
 			     - YAKE
+			     
+The pke library is used for the implementation
+Project's partner: @jeunefeu
 
 @InProceedings{boudin:2016:COLINGDEMO,
   author    = {Boudin, Florian},
