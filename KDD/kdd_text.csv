@@ -1,0 +1,756 @@
+Text
+Variable latent semantic indexing No contact information provided yet.
+Entity discovery and assignment for opinion mining applications Opinion mining became an important topic of study in recent years due to its wide range of applications. There are also many companies offering opinion mining services. One problem that has not been studied so far is the assignment of entities that have been talked about in each sentence. Let us use forum discussions about products as an example to make the problem concrete. In a typical discussion post
+Stable feature selection via dense feature groups Many feature selection algorithms have been proposed in the past focusing on improving classification accuracy. In this work
+Consensus group stable feature selection Stability is an important yet under-addressed issue in feature selection from high-dimensional and small sample data. In this paper
+COA: finding novel patents through text analysis In recent years
+Constructing comprehensive summaries of large event sequences Event sequences capture system and user activity over time. Prior research on sequence mining has mostly focused on discovering local patterns. Though interesting
+Learning optimal ranking with tensor factorization for tag recommendation Tag recommendation is the task of predicting a personalized list of tags for a user given an item. This is important for many websites with tagging capabilities like last.fm or delicious. In this paper
+Augmenting the generalized hough transform to enable the mining of petroglyphs Rock art is an archaeological term for human-made markings on stone. It is believed that there are millions of petroglyphs in North America alone
+Learning nonstationary models of normal network traffic for detecting novel attacks No contact information provided yet.
+Bypass rates: reducing query abandonment using negative inferences We introduce a new approach to analyzing click logs by examining both the documents that are clicked and those that are bypassed-documents returned higher in the ordering of the search results but skipped by the user. This approach complements the popular click-through rate analysis
+Social influence analysis in large-scale networks In large social networks
+Effective label acquisition for collective classification Information diffusion
+Rotation invariant distance measures for trajectories No contact information provided yet.
+Co-evolution of social and affiliation networks In our work
+Efficient anomaly monitoring over moving object trajectory streams Lately there exist increasing demands for online abnormality monitoring over trajectory streams
+Active learning with direct query construction Active learning may hold the key for solving the data scarcity problem in supervised learning
+Customer lifetime value modeling and its use for customer retention planning No contact information provided yet.
+Sustainable operation and management of data center chillers using temporal data mining Motivation: Data centers are a critical component of modern IT infrastructure but are also among the worst environmental offenders through their increasing energy usage and the resulting large carbon footprints. Efficient management of data centers
+Structured entity identification and document categorization: two tasks with one joint model Traditionally
+Learning
+BGP-lens: patterns and anomalies in internet routing updates The Border Gateway Protocol (BGP) is one of the fundamental computer communication protocols. Monitoring and mining BGP update messages can directly reveal the health and stability of Internet routing. Here we make two contributions: firstly we find patterns in BGP updates
+A family of dissimilarity measures between nodes generalizing both the shortest-path and the commute-time distances This work introduces a new family of link-based dissimilarity measures between nodes of a weighted directed graph. This measure
+Cross domain distribution adaptation via kernel mapping When labeled examples are limited and difficult to obtain
+Heterogeneous source consensus learning via decision propagation and negotiation Nowadays
+An association analysis approach to biclustering The discovery of biclusters
+Discrimination-aware data mining In the context of civil rights law
+Fastanova: an efficient algorithm for genome-wide association study Studying the association between quantitative phenotype (such as height or weight) and single nucleotide polymorphisms (SNPs) is an important problem in biology. To understand underlying mechanisms of complex phenotypes
+On the tradeoff between privacy and utility in data publishing In data publishing
+User grouping behavior in online forums Online forums represent one type of social media that is particularly rich for studying human behavior in information seeking and diffusing. The way users join communities is a reflection of the changing and expanding of their interests toward information. In this paper
+Towards NIC-based intrusion detection No contact information provided yet.
+Event detection from evolution of click-through data No contact information provided yet.
+Catching the drift: learning broad matches from clickthrough data Identifying similar keywords
+OLAP on search logs: an infrastructure supporting data-driven applications in search engines Search logs
+Incorporating site-level knowledge for incremental crawling of web forums: a list-wise strategy We study in this paper the problem of incremental crawling of web forums
+Towards scalable support vector machines using squashing An abstract is not available.
+A theoretical framework for learning from a pool of disparate data sources No contact information provided yet.
+Mining intrusion detection alarms for actionable knowledge No contact information provided yet.
+Partitioned logistic regression for spam filtering Naive Bayes and logistic regression perform well in different regimes. While the former is a very simple generative model which is efficient to train and performs well empirically in many applications
+Privacy preserving regression modelling via distributed computation No contact information provided yet.
+Angle-based outlier detection in high-dimensional data Detecting outliers in a large set of data objects is a major data mining task aiming at finding different mechanisms responsible for different groups of objects in a data set. All existing approaches
+Towards exploratory test instance specific algorithms for high dimensional classification No contact information provided yet.
+Algorithms for discovering bucket orders from data No contact information provided yet.
+Evaluating the novelty of text-mined rules using lexical knowledge No contact information provided yet.
+Constant-factor approximation algorithms for identifying dynamic communities We propose two approximation algorithms for identifying communities in dynamic social networks. Communities are intuitively characterized as "unusually densely knit" subsets of a social network. This notion becomes more problematic if the social interactions change over time. Aggregating social networks over time can radically misrepresent the existing and changing community structure. Recently
+PaintingClass: interactive construction
+Maximum profit mining and its application in software development No contact information provided yet.
+Land cover change detection: a case study The study of land cover change is an important problem in the Earth Science domain because of its impacts on local climate
+Depth first generation of long patterns An abstract is not available.
+Unifying dependent clustering and disparate clustering for non-homogeneous data Modern data mining settings involve a combination of attribute-valued descriptors over entities as well as specified relationships between these entities. We present an approach to cluster such non-homogeneous datasets by using the relationships to impose either dependent clustering or disparate clustering constraints. Unlike prior work that views constraints as boolean criteria
+Beyond heuristics: learning to classify vulnerabilities and predict exploits The security demands on modern system administration are enormous and getting worse. Chief among these demands
+Extracting temporal signatures for comprehending systems biology models Systems biology has made massive strides in recent years
+Diagnosing memory leaks using graph mining on heap dumps Memory leaks are caused by software programs that prevent the reclamation of memory that is no longer in use. They can cause significant slowdowns
+Designing efficient cascaded classifiers: tradeoff between accuracy and cost We propose a method to train a cascade of classifiers by simultaneously optimizing all its stages. The approach relies on the idea of optimizing soft cascades. In particular
+Inferring networks of diffusion and influence Information diffusion and virus propagation are fundamental processes talking place in networks. While it is often possible to directly observe when nodes become infected
+Ensemble pruning via individual contribution ordering An ensemble is a set of learned models that make decisions collectively. Although an ensemble is usually more accurate than a single learner
+A cross-collection mixture model for comparative text mining No contact information provided yet.
+Latent aspect rating analysis on review text data: a rating regression approach In this paper
+Mining closed relational graphs with connectivity constraints No contact information provided yet.
+Learning to rank networked entities No contact information provided yet.
+Data mining to predict and prevent errors in health insurance claims processing Health insurance costs across the world have increased alarmingly in recent years. A major cause of this increase are payment errors made by the insurance companies while processing claims. These errors often result in extra administrative effort to re-process (or rework) the claim which accounts for up to 30% of the administrative staff in a typical health insurer. We describe a system that helps reduce these errors using machine learning techniques by predicting claims that will need to be reworked
+Understandable models Of music collections based on exhaustive feature generation with temporal statistics No contact information provided yet.
+Pervasive parallelism in data mining: dataflow solution to co-clustering large and sparse Netflix data All Netflix Prize algorithms proposed so far are prohibitively costly for large-scale production systems. In this paper
+Learning patterns in the dynamics of biological networks Our dynamic graph-based relational mining approach has been developed to learn structural patterns in biological networks as they change over time. The analysis of dynamic networks is important not only to understand life at the system-level
+Improving classification accuracy using automatically extracted training data Classification is a core task in knowledge discovery and data mining
+Exploring social tagging graph for web object classification This paper studies web object classification problem with the novel exploration of social tags. Automatically classifying web objects into manageable semantic categories has long been a fundamental preprocess for indexing
+A scalable two-stage approach for a class of dimensionality reduction techniques Dimensionality reduction plays an important role in many data mining applications involving high-dimensional data. Many existing dimensionality reduction techniques can be formulated as a generalized eigenvalue problem
+Learning incoherent sparse and low-rank patterns from multiple tasks We consider the problem of learning incoherent sparse and low-rank patterns from multiple tasks. Our approach is based on a linear multi-task learning formulation
+Social action tracking via noise tolerant time-varying factor graphs It is well known that users' behaviors (actions) in a social network are influenced by various factors such as personal interests
+Model compression No contact information provided yet.
+Large human communication networks: patterns and a utility-driven generator Given a real
+Streaming feature selection using alpha-investing No contact information provided yet.
+Fast query execution for retrieval models based on path-constrained random walks Many recommendation and retrieval tasks can be represented as proximity queries on a labeled directed graph
+Maximally informative k-itemsets and their efficient discovery No contact information provided yet.
+Scalable influence maximization for prevalent viral marketing in large-scale social networks Influence maximization
+Combining linguistic and statistical analysis to extract relations from web documents No contact information provided yet.
+Classification of software behaviors for failure detection: a discriminative pattern mining approach Software is a ubiquitous component of our daily life. We often depend on the correct working of software systems. Due to the difficulty and complexity of software systems
+Large linear classification when data cannot fit in memory Recent advances in linear classification have shown that for applications such as document classification
+Efficient methods for topic model inference on streaming document collections Topic models provide a powerful tool for analyzing large text collections by representing high dimensional data in a low dimensional subspace. Fitting a topic model given a set of training documents requires approximate inference techniques that are computationally expensive. With today's large-scale
+A maximum entropy web recommendation system: combining collaborative and content features No contact information provided yet.
+An efficient algorithm for a class of fused lasso problems The fused Lasso penalty enforces sparsity in both the coefficients and their successive differences
+Transfer metric learning by learning task relationships Distance metric learning plays a very crucial role in many data mining algorithms because the performance of an algorithm relies heavily on choosing a good metric. However
+Growing a tree in the forest: constructing folksonomies by integrating structured metadata Many social Web sites allow users to annotate the content with descriptive metadata
+Discovering informative content blocks from Web documents No contact information provided yet.
+Connecting the dots between news articles The process of extracting useful knowledge from large datasets has become one of the most pressing problems in today's society. The problem spans entire sectors
+Online multiscale dynamic topic models We propose an online topic model for sequentially analyzing the time evolution of topics in document collections. Topics naturally evolve with multiple timescales. For example
+Cross-sell: a fast promotion-tunable customer-item recommendation method based on conditionally independent probabilities An abstract is not available.
+Evolutionary clustering No contact information provided yet.
+Frequent regular itemset mining Concise representations of frequent itemsets sacrifice readability and direct interpretability by a data analyst of the concise patterns extracted. In this paper
+Exploiting Wikipedia as external knowledge for document clustering In traditional text clustering methods
+Overlapping experiment infrastructure: more
+Suggesting friends using the implicit social graph Although users of online communication tools rarely categorize their contacts into groups such as "family"
+The IGrid index: reversing the dimensionality curse for similarity indexing in high dimensional space An abstract is not available.
+Cold start link prediction In the traditional link prediction problem
+A probabilistic model for personalized tag prediction Social tagging systems have become increasingly popular for sharing and organizing web resources. Tag prediction is a common feature of social tagging systems. Social tagging by nature is an incremental process
+Extracting discriminative concepts for domain adaptation in text mining One common predictive modeling challenge occurs in text mining problems is that the training data and the operational (testing) data are drawn from different underlying distributions. This poses a great difficulty for many statistical learning methods. However
+Parallel computation of high dimensional robust correlation and covariance matrices No contact information provided yet.
+Grafting-light: fast
+Neighbor query friendly compression of social networks Compressing social networks can substantially facilitate mining and advanced analysis of large social networks. Preferably
+Mining advisor-advisee relationships from research publication networks Information network contains abundant knowledge about relationships among people or entities. Unfortunately
+Online discovery and maintenance of time series motifs The detection of repeated subsequences
+Discovering frequent patterns in sensitive data Discovering frequent patterns from data is a popular exploratory technique in datamining. However
+The offset tree for learning with partial labels We present an algorithm
+An approach to spacecraft anomaly detection problem using kernel feature space No contact information provided yet.
+Eigenspace-based anomaly detection in computer systems No contact information provided yet.
+Weighting versus pruning in rule validation for detecting network and host anomalies For intrusion detection
+Simultaneous record detection and attribute labeling in web data extraction No contact information provided yet.
+Document preprocessing for naive Bayes classification and clustering with mixture of multinomials No contact information provided yet.
+A general framework for accurate and fast regression by data summarization in random decision trees No contact information provided yet.
+Entity categorization over large document collections Extracting entities (such as people
+GPLAG: detection of software plagiarism by program dependence graph analysis No contact information provided yet.
+Coherent closed quasi-clique discovery from large dense graph databases No contact information provided yet.
+Unsupervised transfer classification: application to text categorization We study the problem of building the classification model for a target class in the absence of any labeled training example for that class. To address this difficult learning problem
+Boosting with structure information in the functional space: an application to graph classification Boosting is a very successful classification algorithm that produces a linear combination of "weak" classifiers (a.k.a. base learners) to obtain high quality classification models. In this paper we propose a new boosting algorithm where base learners have structure relationships in the functional space. Though such relationships are generic
+Optimizing web traffic via the media scheduling problem Website traffic varies through time in consistent and predictable ways
+Extracting collective probabilistic forecasts from web games No contact information provided yet.
+Experimental design for solicitation campaigns No contact information provided yet.
+Generative model-based clustering of directional data No contact information provided yet.
+Combining partitions by probabilistic label aggregation No contact information provided yet.
+Query chains: learning to rank from implicit feedback No contact information provided yet.
+Group formation in large social networks: membership
+Generalized additive neural networks An abstract is not available.
+Aggregating time partitions No contact information provided yet.
+Programming the K-means clustering algorithm in SQL Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+Nomograms for visualizing support vector machines No contact information provided yet.
+Probabilistic author-topic models for information discovery No contact information provided yet.
+Algorithms for estimating relative importance in networks No contact information provided yet.
+Mining scale-free networks using geodesic clustering No contact information provided yet.
+The distributed boosting algorithm No contact information provided yet.
+Sequential cost-sensitive decision making with reinforcement learning No contact information provided yet.
+Explicitly representing expected cost: an alternative to ROC representation An abstract is not available.
+Learning spatially variant dissimilarity (SVaD) measures No contact information provided yet.
+Information awareness: a prospective technical assessment No contact information provided yet.
+Finding surprising patterns in a time series database in linear time and space No contact information provided yet.
+Clustering spatial data using random walks No contact information provided yet.
+Can we learn a template-independent wrapper for news article extraction from a single training site? Automatic news extraction from news pages is important in many Web applications such as news aggregation. However
+DivRank: the interplay of prestige and diversity in information networks Information networks are widely used to characterize the relationships between data items such as text documents. Many important retrieval and mining tasks rely on ranking the data items based on their centrality or prestige in the network. Beyond prestige
+Universal multi-dimensional scaling In this paper
+Fast nearest-neighbor search in disk-resident graphs Link prediction
+A model for discovering customer value for E-content No contact information provided yet.
+Unsupervised feature selection for multi-cluster data In many data analysis tasks
+GBASE: a scalable and general graph management system Graphs appear in numerous applications including cyber-security
+Interpretable nonnegative matrix decompositions A matrix decomposition expresses a matrix as a product of at least two factor matrices. Equivalently
+Apolo: interactive large graph sensemaking by combining machine learning and visualization We present APOLO
+Diversified ranking on large graphs: an optimization viewpoint Diversified ranking on graphs is a fundamental mining task and has a variety of high-impact applications. There are two important open questions here. The first challenge is the measure - how to quantify the goodness of a given top-k ranking list that captures both the relevance and the diversity? The second challenge lies in the algorithmic aspect - how to find an optimal
+An energy-efficient mobile recommender system The increasing availability of large-scale location traces creates unprecedent opportunities to change the paradigm for knowledge discovery in transportation systems. A particularly promising area is to extract energy-efficient transportation patterns (green knowledge)
+Multiple domain user personalization Content personalization is a key tool in creating attractive websites. Synergies can be obtained by integrating personalization between several Internet properties. In this paper we propose a hierarchical Bayesian model to address these issues. Our model allows the integration of multiple properties without changing the overall structure
+Discriminative topic modeling based on manifold learning Topic modeling has been popularly used for data analysis in various domains including text documents. Previous topic models
+Single-shot detection of multiple categories of text using parametric mixture models No contact information provided yet.
+Querying multiple sets of discovered rules No contact information provided yet.
+A generalized Co-HITS algorithm and its application to bipartite graphs Recently many data types arising from data mining and Web search applications can be modeled as bipartite graphs. Examples include queries and URLs in query logs
+Enabling analysts in managed services for CRM analytics Data analytics tools and frameworks abound
+A sequential sampling algorithm for a general class of utility criteria An abstract is not available.
+Toward autonomic grids: analyzing the job flow with affinity streaming The Affinity Propagation (AP) clustering algorithm proposed by Frey and Dueck (2007) provides an understandable
+Construct robust rule sets for classification No contact information provided yet.
+Partial example acquisition in cost-sensitive learning It is often expensive to acquire data in real-world data mining applications. Most previous data mining and machine learning research
+Clustering based large margin classification: a scalable approach using SOCP formulation No contact information provided yet.
+On effective classification of strings with wavelets No contact information provided yet.
+From run-time behavior to usage scenarios: an interaction-pattern mining approach No contact information provided yet.
+Systematic data selection to mine concept-drifting data streams No contact information provided yet.
+Mining heterogeneous gene expression data with time lagged recurrent neural networks No contact information provided yet.
+Graphs over time: densification laws
+Reasoning about sets using redescription mining No contact information provided yet.
+Mining a stream of transactions for customer patterns No contact information provided yet.
+Similarity measure based on partial information of time series No contact information provided yet.
+PET: a statistical model for popular events tracking in social communities User generated information in online communities has been characterized with the mixture of a text stream and a network structure both changing over time. A good example is a web-blogging community with the daily blog posts and a social network of bloggers.
+On community outliers and their efficient detection in information networks Linked or networked data are ubiquitous in many applications. Examples include web data or hypertext documents connected via hyperlinks
+Ranking-based classification of heterogeneous information networks It has been recently recognized that heterogeneous information networks composed of multiple types of nodes and links are prevalent in the real world. Both classification and ranking of the nodes (or data objects) in such networks are essential for network analysis. However
+Probabilistic topic models with biased propagation on heterogeneous information networks With the development of Web applications
+k-NN as an implementation of situation testing for discrimination discovery and prevention With the support of the legally-grounded methodology of situation testing
+Trading representability for scalability: adaptive multi-hyperplane machine for nonlinear classification Support Vector Machines (SVMs) are among the most popular and successful classification algorithms. Kernel SVMs often reach state-of-the-art accuracies
+Spatially regularized logistic regression for disease mapping on large moving populations Spatial analysis of disease risk
+Compression of weighted graphs We propose to compress weighted graphs (networks)
+Exploiting vulnerability to secure user privacy on a social networking site As (one's) social network expands
+Friendship and mobility: user movement in location-based social networks Even though human movement and mobility patterns have a high degree of freedom and variation
+An integrated machine learning approach to stroke prediction Stroke is the third leading cause of death and the principal cause of serious long-term disability in the United States. Accurate prediction of stroke is highly valuable for early intervention and treatment. In this study
+Clustering with relative constraints Recent studies have suggested using relative distance comparisons as constraints to represent domain knowledge. A natural extension to relative comparisons is the combination of two comparisons defined on the same set of three instances. Constraints in this form
+Logical-shapelets: an expressive primitive for time series classification Time series shapelets are small
+On the privacy of anonymized networks The proliferation of online social networks
+Mining top-k frequent items in a data stream with flexible sliding windows We study the problem of finding the k most frequent items in a stream of items for the recently proposed max-frequency measure. Based on the properties of an item
+Smoothing techniques for adaptive online language models: topic tracking in tweet streams We are interested in the problem of tracking broad topics such as "baseball" and "fashion" in continuous streams of short texts
+Online allocation of display ads with smooth delivery Display ads on the Internet are often sold in bundles of thousands or millions of impressions over a particular time period
+Applying data mining techniques to address disaster information management challenges on mobile devices The improvement of Crisis Management and Disaster Recovery techniques are national priorities in the wake of man-made and nature inflicted calamities of the last decade. Our prior work has demonstrated that the efficiency of sharing and managing information plays an important role in business recovery efforts after disaster event. With the proliferation of smart phones and wireless tablets
+Mining and summarizing customer reviews No contact information provided yet.
+Mining uncertain data with probabilistic guarantees Data uncertainty is inherent in applications such as sensor monitoring systems
+Predictive client-side profiles for personalized advertising Personalization is ubiquitous in modern online applications as it provides significant improvements in user experience by adapting it to inferred user preferences. However
+High-precision phrase-based document classification on a modern scale We present a document classification system that employs lazy learning from labeled phrases
+Serendipitous learning: learning beyond the predefined label space Most traditional supervised learning methods are developed to learn a model from labeled examples and use this model to classify the unlabeled ones into the same label space predefined by the models. However
+Experiences with mining temporal event sequences from electronic medical records: initial successes and some challenges The standardization and wider use of electronic medical records (EMR) creates opportunities for better understanding patterns of illness and care within and across medical systems. Our interest is in the temporal history of event codes embedded in patients' records
+Improving predictions using aggregate information In domains such as consumer products or manufacturing amongst others
+Prominent streak discovery in sequence data This paper studies the problem of prominent streak discovery in sequence data. Given a sequence of values
+Mining closed episodes with simultaneous events Sequential pattern discovery is a well-studied field in data mining. Episodes are sequential patterns describing events that often occur in the vicinity of each other. Episodes can impose restrictions to the order of the events
+Sparsification of influence networks We present Spine
+Making every bit count: fast nonlinear axis scaling No contact information provided yet.
+Exploiting place features in link prediction on location-based social networks Link prediction systems have been largely adopted to recommend new friends in online social networks using data about social interactions. With the soaring adoption of location-based social services it becomes possible to take advantage of an additional source of information: the places people visit. In this paper we study the problem of designing a link prediction system for online location-based social networks. We have gathered extensive data about one of these services
+Mining sequential patterns from probabilistic databases by pattern-growth We propose a pattern-growth approach for mining sequential patterns from probabilistic databases. Our considered model of uncertainty is about the situations where there is uncertainty in associating an event with a source; and consider the problem of enumerating all sequences whose expected support satisfies a user-defined threshold ?. In an earlier work [Muzammal and Raman
+Large-scale matrix factorization with distributed stochastic gradient descent We provide a novel algorithm to approximately factor large matrices with millions of rows
+A new two-phase sampling based algorithm for discovering association rules No contact information provided yet.
+Fast coordinate descent methods with variable selection for non-negative matrix factorization Nonnegative Matrix Factorization (NMF) is an effective dimension reduction method for non-negative dyadic data
+MIME: a framework for interactive visual pattern mining We present a framework for interactive visual pattern mining. Our system enables the user to browse through the data and patterns easily and intuitively
+Balanced allocation with succinct representation Motivated by applications in guaranteed delivery in computational advertising
+Latent aspect rating analysis without aspect keyword supervision Mining detailed opinions buried in the vast amount of review text data is an important
+A GPU-tailored approach for training kernelized SVMs We present a method for efficiently training binary and multiclass kernelized SVMs on a Graphics Processing Unit (GPU). Our methods apply to a broad range of kernels
+Personal privacy vs population privacy: learning to attack anonymization Over the last decade great strides have been made in developing techniques to compute functions privately. In particular
+Model order selection for boolean matrix factorization Matrix factorizations---where a given data matrix is approximated by a product of two or more factor matrices---are powerful data mining tools. Among other tasks
+Query
+Towards parameter-free data mining No contact information provided yet.
+Detecting adversarial advertisements in the wild In a large online advertising system
+Real-time bidding algorithms for performance-based display ad allocation We describe a real-time bidding algorithm for performance-based display ad allocation. A central issue in performance display advertising is matching campaigns to ad impressions
+Towards bounding sequential patterns Given a sequence database
+Incremental context mining for adaptive document classification No contact information provided yet.
+Learning to match and cluster large high-dimensional data sets for data integration No contact information provided yet.
+Mining concept-drifting data streams using ensemble classifiers No contact information provided yet.
+Adaptive duplicate detection using learnable string similarity measures No contact information provided yet.
+Ensemble-index: a new approach to indexing large databases No contact information provided yet.
+Style mining of electronic messages for multiple authorship discrimination: first results No contact information provided yet.
+Understanding captions in biomedical publications No contact information provided yet.
+Efficient closed pattern mining in the presence of tough block constraints No contact information provided yet.
+Mining high-speed data streams An abstract is not available.
+Improving spatial locality of programs via data mining No contact information provided yet.
+Bayesian networks for lossless dataset compression An abstract is not available.
+Mining viewpoint patterns in image databases No contact information provided yet.
+Web usage mining based on probabilistic latent semantic analysis No contact information provided yet.
+Relational Markov models and their application to adaptive web navigation No contact information provided yet.
+Visualizing changes in the structure of data for exploratory feature selection No contact information provided yet.
+Discovering word senses from text No contact information provided yet.
+Gaining insights into support vector machine pattern classifiers using projection-based tour methods No contact information provided yet.
+Learning to predict train wheel failures No contact information provided yet.
+Robust space transformations for distance-based operations No contact information provided yet.
+PEBL: positive example based learning for Web page classification using SVM No contact information provided yet.
+CLOSET+: searching for the best strategies for mining frequent closed itemsets No contact information provided yet.
+Bayesian analysis of massive datasets via particle filters No contact information provided yet.
+Scaling up dynamic time warping for datamining applications An abstract is not available.
+Indexing multi-dimensional time-series with support for multiple distance measures No contact information provided yet.
+Inverted matrix: efficient discovery of frequent items in large datasets in the context of interactive mining No contact information provided yet.
+Efficient decision tree construction on streaming data No contact information provided yet.
+Random projection in dimensionality reduction: applications to image and text data No contact information provided yet.
+Frequent-subsequence-based prediction of outer membrane proteins No contact information provided yet.
+The IOC algorithm: efficient many-class non-parametric classification for high-dimensional data No contact information provided yet.
+Detecting graph-based spatial outliers: algorithms and applications (a summary of results) No contact information provided yet.
+Generating English summaries of time series data using the Gricean maxims No contact information provided yet.
+Segmentation-based modeling for advanced targeted marketing No contact information provided yet.
+Discovering roll-up dependencies An abstract is not available.
+TreeDT: gene mapping by tree disequilibrium test No contact information provided yet.
+Using association rules for product assortment decisions: a case study An abstract is not available.
+Deformable Markov model templates for time-series pattern matching An abstract is not available.
+Towards an effective cooperation of the user and the computer for classification An abstract is not available.
+Mining web logs for prediction models in WWW caching and prefetching No contact information provided yet.
+Frequent term-based text clustering No contact information provided yet.
+Application of neural networks to biological data mining: a case study in protein sequence classification An abstract is not available.
+Adversarial classification No contact information provided yet.
+Visualization of navigation patterns on a Web site using model-based clustering An abstract is not available.
+Data mining with sparse grids using simplicial basis functions No contact information provided yet.
+Mining IC test data to optimize VLSI testing An abstract is not available.
+Handling concept drifts in incremental learning with support vector machines An abstract is not available.
+Proximal support vector machine classifiers No contact information provided yet.
+Shrinkage estimator generalizations of Proximal Support Vector Machines No contact information provided yet.
+Statistical modeling of large-scale simulation data No contact information provided yet.
+Discovering evolutionary theme patterns from text: an exploration of temporal text mining No contact information provided yet.
+A generalized framework for mining spatio-temporal patterns in scientific data No contact information provided yet.
+Multi-level organization and summarization of the discovered rules An abstract is not available.
+Transforming data to satisfy privacy constraints No contact information provided yet.
+Mining data records in Web pages No contact information provided yet.
+Probabilistic modeling of transaction data with applications to profiling
+Mining knowledge-sharing sites for viral marketing No contact information provided yet.
+The UCI KDD archive of large data sets for data mining research and experimentation An abstract is not available.
+Mining distance-based outliers in near linear time with randomization and a simple pruning rule No contact information provided yet.
+Mining the network value of customers No contact information provided yet.
+Maximizing the spread of influence through a social network No contact information provided yet.
+Using the fractal dimension to cluster datasets An abstract is not available.
+Rapid detection of significant spatial clusters No contact information provided yet.
+Model-based overlapping clustering No contact information provided yet.
+Assessment and pruning of hierarchical model based clustering No contact information provided yet.
+Carpenter: finding closed patterns in long biological datasets No contact information provided yet.
+Eliminating noisy information in Web pages for data mining No contact information provided yet.
+Tensor-CUR decompositions for tensor-based data No contact information provided yet.
+Discovering the set of fundamental rule changes No contact information provided yet.
+Mining quantitative correlated patterns using an information-theoretic approach No contact information provided yet.
+Discovering associations with numeric variables Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+Correlation search in graph databases Correlation mining has gained great success in many application domains for its ability to capture the underlying dependency between objects. However
+A quickstart in frequent structure mining can make a difference No contact information provided yet.
+Automatic multimedia cross-modal correlation discovery No contact information provided yet.
+Adaptive query processing for time-series data An abstract is not available.
+Natural communities in large linked networks No contact information provided yet.
+A framework for specifying explicit bias for revision of approximate information extraction rules An abstract is not available.
+Co-clustering based classification for out-of-domain documents In many real world applications
+Generating non-redundant association rules An abstract is not available.
+Generalizing the notion of support No contact information provided yet.
+Efficient discovery of error-tolerant frequent itemsets in high dimensions No contact information provided yet.
+Mining e-commerce data: the good
+Cross-training: learning probabilistic mappings between topics No contact information provided yet.
+Efficiently handling feature redundancy in high-dimensional data No contact information provided yet.
+Privacy-preserving Bayesian network structure computation on distributed heterogeneous data No contact information provided yet.
+Hardening soft information sources An abstract is not available.
+Efficient data reduction with EASE No contact information provided yet.
+A Bayesian network framework for reject inference No contact information provided yet.
+A rank sum test method for informative gene discovery No contact information provided yet.
+Extending naïve Bayes classifiers using long itemsets An abstract is not available.
+Scalable robust covariance and correlation estimates for data mining No contact information provided yet.
+Constraint-driven clustering Clustering methods can be either data-driven or need-driven. Data-driven methods intend to discover the true structure of the underlying data while need-driven methods aims at organizing the true structure to meet certain application requirements. Thus
+Selection
+Correlating synchronous and asynchronous data streams No contact information provided yet.
+A classification-based methodology for planning audit strategies in fraud detection An abstract is not available.
+Automatic mining of fruit fly embryo images No contact information provided yet.
+A multinomial clustering model for fast simulation of computer architecture designs No contact information provided yet.
+Using retrieval measures to assess similarity in mining dynamic web clickstreams No contact information provided yet.
+Cryptographically private support vector machines No contact information provided yet.
+Recovering latent time-series from their observed sums: network tomography with particle filters. Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+Fast best-effort pattern matching in large attributed graphs We focus on large graphs where nodes have attributes
+Center-piece subgraphs: problem definition and fast solutions No contact information provided yet.
+Single-pass online learning: performance
+Interestingness of frequent itemsets using Bayesian networks as background knowledge No contact information provided yet.
+Mining risk patterns in medical data No contact information provided yet.
+Mining phenotypes and informative genes from gene expression data No contact information provided yet.
+Information genealogy: uncovering the flow of ideas in non-hyperlinked document databases We now have incrementally-grown databases of text documents ranging back for over a decade in areas ranging from personal email
+Topics over time: a non-Markov continuous-time model of topical trends No contact information provided yet.
+Machine learning for online query relaxation No contact information provided yet.
+YALE: rapid prototyping for complex data mining tasks No contact information provided yet.
+A framework for ontology-driven subspace clustering No contact information provided yet.
+Sleeved coclustering No contact information provided yet.
+Data mining criteria for tree-based regression and classification No contact information provided yet.
+Rule extraction from linear support vector machines No contact information provided yet.
+A scalable modular convex solver for regularized risk minimization A wide variety of machine learning problems can be described as minimizing a regularized risk functional
+Mining comparable bilingual text corpora for cross-language information integration No contact information provided yet.
+Data filtering for automatic classification of rocks from reflectance spectra No contact information provided yet.
+Generating semantic annotations for frequent patterns with context analysis No contact information provided yet.
+Supervised probabilistic principal component analysis No contact information provided yet.
+The data mining approach to automated software testing No contact information provided yet.
+Deriving quantitative models for correlation clusters No contact information provided yet.
+V-Miner: using enhanced parallel coordinates to mine product design and test data No contact information provided yet.
+Critical event prediction for proactive management in large-scale computer clusters No contact information provided yet.
+Computer aided detection via asymmetric cascade of sparse hyperplane classifiers No contact information provided yet.
+Clustering pair-wise dissimilarity data into partially ordered sets No contact information provided yet.
+Extracting key-substring-group features for text classification No contact information provided yet.
+Formulating distance functions via the kernel trick No contact information provided yet.
+Efficient mining of iterative patterns for software specification discovery Studies have shown that program comprehension takes up to 45% of software development costs. Such high costs are caused by the lack-of documented specification and further aggravated by the phenomenon of software evolution. There is a need for automated tools to extract specifications to aid program comprehension. In this paper
+Fast window correlations over uncooperative time series No contact information provided yet.
+Utility-based anonymization using local recoding No contact information provided yet.
+Integration of profile hidden Markov model output into association rule mining No contact information provided yet.
+Frequent subgraph mining in outerplanar graphs No contact information provided yet.
+A multiple tree algorithm for the efficient association of asteroid observations No contact information provided yet.
+Temporal causal modeling with graphical granger methods The need for mining causality
+Online novelty detection on temporal sequences No contact information provided yet.
+Graph-based anomaly detection No contact information provided yet.
+Mining
+Mining optimal decision trees from itemset lattices We present DL8
+Transforming classifier scores into accurate multiclass probability estimates No contact information provided yet.
+Mining reference tables for automatic text segmentation No contact information provided yet.
+Mining rank-correlated sets of numerical attributes No contact information provided yet.
+Improved robustness of signature-based near-replica detection via lexicon randomization No contact information provided yet.
+Acclimatizing Taxonomic Semantics for Hierarchical Content Classification No contact information provided yet.
+SEWeP: using site semantics and a taxonomy to enhance the Web personalization process No contact information provided yet.
+Fast discovery of unexpected patterns in data
+Structural and temporal analysis of the blogosphere through community factorization The blogosphere has unique structural and temporal properties since blogs are typically used as communication media among human individuals. In this paper
+Naïve filterbots for robust cold-start recommendations No contact information provided yet.
+Dimension induced clustering No contact information provided yet.
+Scalable mining of large disk-based graph databases No contact information provided yet.
+Towards systematic design of distance functions for data mining applications No contact information provided yet.
+Exploiting dictionaries in named entity extraction: combining semi-Markov extraction processes and data integration methods No contact information provided yet.
+Robust information-theoretic clustering No contact information provided yet.
+Cancer genomics Throughout life
+Generalized component analysis for text with heterogeneous attributes We present a class of richly structured
+Density-based clustering of uncertain data No contact information provided yet.
+Trajectory pattern mining The increasing pervasiveness of location-acquisition technologies (GPS
+A DEA approach for model combination No contact information provided yet.
+Cost-effective outbreak detection in networks Given a water distribution network
+Weighted Association Rule Mining using weighted support and significance framework No contact information provided yet.
+Enhanced max margin learning on multimodal data mining in a multimedia database The problem of multimodal data mining in a multimedia database can be addressed as a structured prediction problem where we learn the mapping from an input to the structured and interdependent output variables. In this paper
+Global distance-based segmentation of trajectories No contact information provided yet.
+SPIN: mining maximal frequent subgraphs from graph databases No contact information provided yet.
+The complexity of mining maximal frequent itemsets and maximal frequent patterns No contact information provided yet.
+Pattern lattice traversal by selective jumps No contact information provided yet.
+Mining correlated bursty topic patterns from coordinated text streams Previous work on text mining has almost exclusively focused on a single stream. However
+Finding tribes: identifying close-knit individuals from employment patterns We present a family of algorithms to uncover tribes-groups of individuals who share unusual sequences of affiliations. While much work inferring community structure describes large-scale trends
+A framework for analysis of dynamic social networks No contact information provided yet.
+Efficient anonymity-preserving data collection No contact information provided yet.
+Local sparsity control for naive Bayes with extreme misclassification costs No contact information provided yet.
+Discovering additive structure in black box functions No contact information provided yet.
+A refinement approach to handling model misfit in text categorization No contact information provided yet.
+Practical guide to controlled experiments on the web: listen to your customers not to the hippo The web provides an unprecedented opportunity to evaluate ideas quickly using controlled experiments
+Time and sample efficient discovery of Markov blankets and direct causal relations No contact information provided yet.
+Empirical comparisons of various voting methods in bagging No contact information provided yet.
+From frequent itemsets to semantically meaningful visual patterns Data mining techniques that are successful in transaction and text data may not be simply applied to image data that contain high-dimensional features and have spatial structures. It is not a trivial task to discover meaningful visual patterns in image databases
+Mining asynchronous periodic patterns in time series data An abstract is not available.
+A hybrid unsupervised approach for document clustering No contact information provided yet.
+Making holistic schema matching robust: an ensemble approach No contact information provided yet.
+Assessing data mining results via swap randomization No contact information provided yet.
+Learning sparse metrics via linear programming No contact information provided yet.
+Using relational knowledge discovery to prevent securities fraud No contact information provided yet.
+Using structure indices for efficient approximation of network properties No contact information provided yet.
+Ordering patterns by combining opinions from multiple sources No contact information provided yet.
+Efficient handling of high-dimensional feature spaces by randomized classifier ensembles No contact information provided yet.
+Dense itemsets No contact information provided yet.
+Estimating rates of rare events at multiple resolutions We consider the problem of estimating occurrence rates of rare eventsfor extremely sparse data
+Automatic labeling of multinomial topic models Multinomial distributions over words are frequently used to model topics in text collections. A common
+Statistical entity-topic models No contact information provided yet.
+Relational data pre-processing techniques for improved securities fraud detection Commercial datasets are often large
+Evaluating similarity measures: a large-scale study in the orkut social network No contact information provided yet.
+Creating social networks to improve peer-to-peer networking No contact information provided yet.
+New EM derived from Kullback-Leibler divergence No contact information provided yet.
+Finding similar files in large document repositories No contact information provided yet.
+A Web page prediction model based on click-stream tree representation of user behavior No contact information provided yet.
+Local decomposition for rare class analysis Given its importance
+Using randomized response techniques for privacy-preserving data mining No contact information provided yet.
+Characterising the difference Characterising the differences between two databases is an often occurring problem in Data Mining. Detection of change over time is a prime example
+Efficient kernel feature extraction for massive data sets No contact information provided yet.
+Finding partial orders from unordered 0-1 data No contact information provided yet.
+Incremental maintenance of quotient cube for median No contact information provided yet.
+Finding low-entropy sets and trees from binary data The discovery of subsets with special properties from binary data hasbeen one of the key themes in pattern discovery. Pattern classes suchas frequent itemsets stress the co-occurrence of the value 1 in the data. While this choice makes sense in the context of sparse binary data
+Handling very large numbers of association rules in the analysis of microarray data No contact information provided yet.
+Xproj: a framework for projected structural clustering of xml documents XML has become a popular method of data representation both on the web and in databases in recent years. One of the reasons for the popularity of XML has been its ability to encode structural information about data records. However
+Alpha seeding for support vector machines An abstract is not available.
+A mixture model for contextual text mining No contact information provided yet.
+Playing hide-and-seek with correlations No contact information provided yet.
+Pattern-based similarity search for microarray data No contact information provided yet.
+Building connected neighborhood graphs for isometric data embedding No contact information provided yet.
+Cleaning disguised missing data: a heuristic approach In some applications such as filling in a customer information form on the web
+Applying collaborative filtering techniques to movie search for better ranking and browsing We propose a new ranking method
+Statistical change detection for multi-dimensional data This paper deals with detecting change of distribution in multi-dimensional data sets. For a given baseline data set and a set of newly observed data points
+Spatial scan statistics: approximations and performance study No contact information provided yet.
+Outlier detection by sampling with accuracy guarantees No contact information provided yet.
+Identifying bridging rules between conceptual clusters No contact information provided yet.
+Generation of synthetic data sets for evaluating the accuracy of knowledge discovery systems No contact information provided yet.
+Detecting outliers using transduction and statistical testing No contact information provided yet.
+Density-based clustering for real-time stream data Existing data-stream clustering algorithms such as CluStream arebased on k-means. These clustering algorithms are incompetent tofind clusters of arbitrary shapes and cannot handle outliers. Further
+Semi-supervised time series classification No contact information provided yet.
+Pragmatic text mining: minimizing human effort to quantify many issues in call logs No contact information provided yet.
+Quantifying trends accurately despite classifier error and class imbalance No contact information provided yet.
+Predicting prostate cancer recurrence via maximizing the concordance index No contact information provided yet.
+A data mining approach to modeling relationships among categories in image collection No contact information provided yet.
+Learning to detect malicious executables in the wild No contact information provided yet.
+Short term performance forecasting in enterprise systems No contact information provided yet.
+Scalable look-ahead linear regression trees Most decision tree algorithms base their splitting decisions on a piecewise constant model. Often these splitting algorithms are extrapolated to trees with non-constant models at the leaf nodes. The motivation behind Look-ahead Linear Regression Trees (LLRT) is that out of all the methods proposed to date
+Mining relational data through correlation-based multiple view validation No contact information provided yet.
+The minimum consistent subset cover problem and its applications in data mining In this paper
+Parallel mining of closed sequential patterns No contact information provided yet.
+Visualization support for a user-centered KDD process No contact information provided yet.
+Optimizing time series discretization for knowledge discovery No contact information provided yet.
+Distributed cooperative mining for information consortia No contact information provided yet.
+Structure and evolution of online social networks No contact information provided yet.
+Exploiting unlabeled data in ensemble methods No contact information provided yet.
+A fast algorithm for finding frequent episodes in event streams Frequent episode discovery is a popular framework for mining data available as a long sequence of events. An episode is essentially a short ordered sequence of event types and the frequency of an episode is some suitable measure of how often the episode occurs in the data sequence. Recently
+Cross channel optimized marketing by reinforcement learning No contact information provided yet.
+Unsupervised learning on k-partite graphs No contact information provided yet.
+Mining for misconfigured machines in grid systems No contact information provided yet.
+A framework for simultaneous co-clustering and learning from complex data For difficult classification or regression problems
+Expertise modeling for matching papers with reviewers An essential part of an expert-finding task
+Beyond classification and ranking: constrained optimization of the ROI No contact information provided yet.
+BoostCluster: boosting clustering by pairwise constraints Data clustering is an important task in many disciplines. A large number of studies have attempted to improve clustering by using the side information that is often encoded as pairwise constraints. However
+Measuring and extracting proximity in networks No contact information provided yet.
+Algorithms for time series knowledge mining No contact information provided yet.
+LungCAD: a clinically approved
+Dynamic syslog mining for network failure monitoring No contact information provided yet.
+Compressed data cubes for OLAP aggregate query approximation on continuous dimensions An abstract is not available.
+Empirical Bayesian data mining for discovering patterns in post-marketing drug safety No contact information provided yet.
+Learning the kernel matrix in discriminant analysis via quadratically constrained quadratic programming The kernel function plays a central role in kernel methods. In this paper
+Truth discovery with multiple conflicting information providers on the web The world-wide web has become the most important information source for most of us. Unfortunately
+Exploiting duality in summarization with deterministic guarantees Summarization is an important task in data mining. A major challenge over the past years has been the efficient construction of fixed-space synopses that provide a deterministic quality guarantee
+Webpage understanding: an integrated approach Recent work has shown the effectiveness of leveraging layout and tag-tree structure for segmenting webpages and labeling HTML elements. However
+Canonicalization of database records using adaptive similarity measures It is becoming increasingly common to construct databases from information automatically culled from many heterogeneous sources. For example
+Mining high dimensional data for classifier knowledge No contact information provided yet.
+Targeting the right students using data mining An abstract is not available.
+Automating exploratory data analysis for efficient data mining An abstract is not available.
+Trajectory clustering with mixtures of regression models An abstract is not available.
+Suppressing model overfitting in mining concept-drifting data streams No contact information provided yet.
+The predictive power of online chatter No contact information provided yet.
+Fast nonlinear regression via eigenimages applied to galactic morphology No contact information provided yet.
+Efficient incremental constrained clustering Clustering with constraints is an emerging area of data mining research. However
+Support feature machine for classification of abnormal brain activity In this study
+Bias and controversy: beyond the statistical deviation No contact information provided yet.
+Web object indexing using domain knowledge No contact information provided yet.
+Nonlinear adaptive distance metric learning for clustering A good distance metric is crucial for many data mining tasks. To learn a metric in the unsupervised setting
+When do data mining results violate privacy? No contact information provided yet.
+Detecting time series motifs under uniform scaling Time series motifs are approximately repeated patterns foundwithin the data. Such motifs have utility for many data mining algorithms
+A probabilistic framework for relational clustering Relational clustering has attracted more and more attention due to its phenomenal impact in various important applications which involve multi-type interrelated data objects
+Disease progression modeling from historical clinical databases No contact information provided yet.
+Unweaving a web of documents No contact information provided yet.
+Detection of emerging space-time clusters No contact information provided yet.
+A new multi-view regression approach with an application to customer wallet estimation No contact information provided yet.
+Wavelet synopsis for data streams: minimizing non-euclidean error No contact information provided yet.
+Extracting relevant named entities for automated expense reimbursement Expense reimbursement is a time-consuming and labor-intensive process across organizations. In this paper
+Practical learning from one-sided feedback In many data mining applications
+Mining distance-based outliers from large databases in any metric space No contact information provided yet.
+Feature bagging for outlier detection No contact information provided yet.
+CFI-Stream: mining closed frequent itemsets in data streams No contact information provided yet.
+Failure detection and localization in component based systems by online tracking No contact information provided yet.
+Knowledge base maintenance using knowledge gap analysis No contact information provided yet.
+Consistent bipartite graph co-partitioning for star-structured high-order heterogeneous data co-clustering No contact information provided yet.
+iLink: search and routing in social networks The growth of Web 2.0 and fundamental theoretical breakthroughs have led to an avalanche of interest in social networks. This paper focuses on the problem of modeling how social networks accomplish tasks through peer production style collaboration. We propose a general interaction model for the underlying social networks and then a specific model (iLink for social search and message routing. A key contribution here is the development of a general learning framework for making such online peer production systems work at scale. The iLink model has been used to develop a system for FAQ generation in a social network (FAQtory)
+Nestedness and segmented nestedness Consider each row of a 0-1 dataset as the subset of the columns for which the row has an 1. Then a dataset is nested
+Privacy preserving mining of association rules No contact information provided yet.
+Extracting decision trees from trained neural networks No contact information provided yet.
+Real-time ranking with concept drift using expert advice In many practical applications
+Probabilistic query models for transaction data No contact information provided yet.
+Data mining in metric space: an empirical analysis of supervised learning performance criteria No contact information provided yet.
+Active learning using adaptive resampling An abstract is not available.
+A distributed learning framework for heterogeneous data sources No contact information provided yet.
+CLOPE: a fast and effective clustering algorithm for transactional data No contact information provided yet.
+Attack detection in time series for recommender systems No contact information provided yet.
+Simple and effective visual models for gene expression cancer diagnostics No contact information provided yet.
+Visual classification: an interactive approach to decision tree construction An abstract is not available.
+XRules: an effective structural classifier for XML data No contact information provided yet.
+A microeconomic data mining problem: customer-oriented catalog segmentation No contact information provided yet.
+Nantonac collaborative filtering: recommendation based on order responses Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+Evolutionary algorithms in data mining: multi-objective performance modeling for direct marketing An abstract is not available.
+Evaluation of prediction models for marketing campaigns No contact information provided yet.
+Identifying prospective customers An abstract is not available.
+IDR/QR: an incremental dimension reduction algorithm via QR decomposition No contact information provided yet.
+IMMC: incremental maximum margin criterion No contact information provided yet.
+SVM selective sampling for ranking with application to data retrieval No contact information provided yet.
+Privacy-preservation for gradient descent methods Gradient descent is a widely used paradigm for solving many optimization problems. Stochastic gradient descent performs a series of iterations to minimize a target function in order to reach a local minimum. In machine learning or data mining
+Hierarchical model-based clustering of large datasets through fractionation and refractionation No contact information provided yet.
+k-TTP: a new privacy model for large-scale distributed environments No contact information provided yet.
+Joint latent topic models for text and citations In this work
+A probabilistic framework for semi-supervised clustering No contact information provided yet.
+A general probabilistic framework for clustering individuals and objects An abstract is not available.
+Mining complex models from arbitrarily large databases in constant time No contact information provided yet.
+Bursty and hierarchical structure in streams No contact information provided yet.
+A two-way visualization method for clustered data No contact information provided yet.
+Mining progressive confident rules No contact information provided yet.
+Detecting anomalous records in categorical datasets We consider the problem of detecting anomalies in high aritycategorical datasets. In most applications
+Active exploration for learning rankings from clickthrough data We address the task of learning rankings of documents from search enginelogs of user behavior. Previous work on this problem has relied onpassively collected clickthrough data. In contrast
+Summarizing itemset patterns using probabilistic models No contact information provided yet.
+Robust boosting and its relation to bagging No contact information provided yet.
+Adversarial learning No contact information provided yet.
+Classification features for attack detection in collaborative recommender systems No contact information provided yet.
+Clustering moving objects No contact information provided yet.
+IMDS: intelligent malware detection system The proliferation of malware has presented a serious threat to the security of computer systems. Traditional signature-based anti-virus systems fail to detect polymorphic and new
+A generative probabilistic approach to visualizing sets of symbolic sequences No contact information provided yet.
+On-board analysis of uncalibrated data for a spacecraft at mars Analyzing data on-board a spacecraft as it is collected enables several advanced spacecraft capabilities
+A general approach to incorporate data quality matrices into data mining algorithms No contact information provided yet.
+On mining cross-graph quasi-cliques No contact information provided yet.
+A large-scale analysis of query logs for assessing personalization opportunities No contact information provided yet.
+PVA: a self-adaptive personal view agent system No contact information provided yet.
+An objective evaluation criterion for clustering No contact information provided yet.
+GPCA: an efficient dimension reduction scheme for image compression and retrieval No contact information provided yet.
+1-dimensional splines as building blocks for improving accuracy of risk outcomes models No contact information provided yet.
+Discovery of climate indices using clustering No contact information provided yet.
+IntelliClean: a knowledge-based intelligent data cleaner An abstract is not available.
+Reducing the human overhead in text categorization No contact information provided yet.
+Regularized discriminant analysis for high dimensional
+Experiments with random projections for machine learning No contact information provided yet.
+Data selection for support vector machine classifiers An abstract is not available.
+Efficient search for association rules An abstract is not available.
+Cross-language information retrieval using PARAFAC2 A standard approach to cross-language information retrieval (CLIR) uses Latent Semantic Analysis (LSA) in conjunction with a multilingual parallel aligned corpus. This approach has been shown to be successful in identifying similar documents across languages - or more precisely
+Mining the space of graph properties No contact information provided yet.
+Redundancy based feature selection for microarray data No contact information provided yet.
+A general model for clustering binary data No contact information provided yet.
+IncSpan: incremental mining of sequential patterns in large database No contact information provided yet.
+Deriving marketing intelligence from online discussion No contact information provided yet.
+Event summarization for system management In system management applications
+A framework for community identification in dynamic social networks We propose frameworks and algorithms for identifying communities in social networks that change over time. Communities are intuitively characterized as "unusually densely knit" subsets of a social network. This notion becomes more problematic if the social interactions change over time. Aggregating social networks over time can radically misrepresent the existing and changing community structure. Instead
+An iterative method for multi-class cost-sensitive learning No contact information provided yet.
+Efficient mining of weighted association rules (WAR) An abstract is not available.
+Learning and making decisions when costs and probabilities are both unknown No contact information provided yet.
+Discovering complex matchings across web query interfaces: a correlation mining approach No contact information provided yet.
+Rule interestingness analysis using OLAP operations No contact information provided yet.
+A unifying framework for detecting outliers and change points from non-stationary time series data No contact information provided yet.
+Anonymity-preserving data collection No contact information provided yet.
+BLOSOM: a framework for mining arbitrary boolean expressions No contact information provided yet.
+Out-of-core frequent pattern mining on a commodity PC No contact information provided yet.
+Modeling relationships at multiple scales to improve accuracy of large recommender systems The collaborative filtering approach to recommender systems predicts user preferences for products or services by learning past user-item relationships. In this work
+Hierarchical topic segmentation of websites No contact information provided yet.
+Information extraction from Wikipedia: moving down the long tail Not only is Wikipedia a comprehensive source of quality information
+Why collective inference improves relational classification No contact information provided yet.
+Aggregation-based feature invention and relational concept classes No contact information provided yet.
+Finding recent frequent itemsets adaptively over online data streams No contact information provided yet.
+Predicting customer shopping lists from point-of-sale purchase data No contact information provided yet.
+Mining images on semantics via statistical learning No contact information provided yet.
+Automatic record linkage using seeded nearest neighbour and support vector machine classification The task of linking databases is an important step in an increasing number of data mining projects
+Mining coherent gene clusters from gene-sample-time microarray data No contact information provided yet.
+Privacy-preserving k-means clustering over vertically partitioned data Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+Customer targeting models using actively-selected web content We consider the problem of predicting the likelihood that a company will purchase a new product from a seller. The statistical models we have developed at IBM for this purpose rely on historical transaction data coupled with structured firmographic information like the company revenue
+On privacy preservation against adversarial data mining No contact information provided yet.
+Next frontier No contact information provided yet.
+On string classification in data streams String data has recently become important because of its use in a number of applications such as computational and molecular biology
+Fragments of order No contact information provided yet.
+Selecting the right interestingness measure for association patterns No contact information provided yet.
+Query-time entity resolution No contact information provided yet.
+Scalable discovery of hidden emails from large folders No contact information provided yet.
+MARK: a boosting algorithm for heterogeneous kernel models No contact information provided yet.
+Combining proactive and reactive predictions for data streams No contact information provided yet.
+Discovering significant OPSM subspace clusters in massive gene expression data No contact information provided yet.
+An integrated framework on mining logs files for computing system management No contact information provided yet.
+Regression error characteristic surfaces Note: OCR errors may be found in this Reference List extracted from the full text article. ACM has opted to expose the complete List rather than only correct and linked references.
+The mathematics of causal inference I will review concepts
+Translation-invariant mixture models for curve clustering No contact information provided yet.
+Detecting privacy leaks using corpus-based association rules Detecting inferences in documents is critical for ensuring privacy when sharing information. In this paper
+Evolutionary spectral clustering by incorporating temporal smoothness Evolutionary clustering is an emerging research area essential to important applications such as clustering dynamic Web and blog contents and clustering data streams. In evolutionary clustering
+Fast direction-aware proximity for graph mining In this paper we study asymmetric proximity measures on directed graphs
+Support envelopes: a technique for exploring the structure of association patterns No contact information provided yet.
+A fast kernel-based multilevel algorithm for graph clustering No contact information provided yet.
+Algorithms for storytelling No contact information provided yet.
+Discovering similar patterns in time series An abstract is not available.
+Incremental quantile estimation for massive tracking An abstract is not available.
+Feature selection in unsupervised learning via evolutionary search An abstract is not available.
+Detecting research topics via the correlation between graphs and texts In this paper we address the problem of detecting topics in large-scale linked document collections. Recently
+Efficient algorithms for constructing decision trees with constraints An abstract is not available.
+On the need for time series data mining benchmarks: a survey and empirical demonstration No contact information provided yet.
+Using a knowledge cache for interactive discovery of association rules An abstract is not available.
+Data mining solves tough semiconductor manufacturing problems An abstract is not available.
+Generalized clustering
+Distributed data mining in a chain store database of short transactions No contact information provided yet.
+Applying data mining in investigating money laundering crimes No contact information provided yet.
+Real world performance of association rule algorithms No contact information provided yet.
+The "DGX" distribution for mining massive
+Clustering seasonality patterns in the presence of errors No contact information provided yet.
+A system for real-time competitive market intelligence No contact information provided yet.
+Tumor cell identification using features rules No contact information provided yet.
+Topic-conditioned novelty detection No contact information provided yet.
+Predicting rare classes: can boosting make any weak learner strong? No contact information provided yet.
+SyMP: an efficient clustering approach to identify clusters of arbitrary shapes in large data sets No contact information provided yet.
+CVS: a Correlation-Verification based Smoothing technique on information retrieval and term clustering No contact information provided yet.
+PROXIMUS: a framework for analyzing very high dimensional discrete-attributed datasets No contact information provided yet.
+Distributed multivariate regression based on influential observations No contact information provided yet.
+Screening and interpreting multi-item associations based on log-linear modeling No contact information provided yet.
+Estimating the global pagerank of web communities No contact information provided yet.
+Passenger-based predictive modeling of airline no-show rates No contact information provided yet.
+Pattern discovery in sequences under a Markov assumption No contact information provided yet.
+Efficient elastic burst detection in data streams No contact information provided yet.
+Activity monitoring: noticing interesting changes in behavior An abstract is not available.
+On-line unsupervised outlier detection using finite mixtures with discounting learning algorithms An abstract is not available.
+Mining unexpected rules by pushing user dynamics No contact information provided yet.
+Mining GPS data to augment road models An abstract is not available.
+On demand classification of data streams No contact information provided yet.
+B-EM: a classifier incorporating bootstrap with EM approach for data mining No contact information provided yet.
+Probabilistic discovery of time series motifs No contact information provided yet.
+Approximating a collection of frequent sets No contact information provided yet.
+Fully automatic cross-associations No contact information provided yet.
+On interactive visualization of high-dimensional data using the hyperbolic plane No contact information provided yet.
+Similarity analysis on government regulations No contact information provided yet.
+Locating secret messages in images No contact information provided yet.
+CloseGraph: mining closed frequent graph patterns No contact information provided yet.
+Identifying early buyers from purchase data No contact information provided yet.
+Sampling from large graphs No contact information provided yet.
+Sampling-based sequential subgroup mining No contact information provided yet.
+Turning CARTwheels: an alternating algorithm for mining redescriptions No contact information provided yet.
+Very sparse random projections No contact information provided yet.
+Clinical and financial outcomes analysis with existing hospital patient records No contact information provided yet.
+Knowledge-based data mining No contact information provided yet.
+Automatic identification of quasi-experimental designs for discovering causal knowledge Researchers in the social and behavioral sciences routinely rely on quasi-experimental designs to discover knowledge from large data-bases. Quasi-experimental designs (QEDs) exploit fortuitous circumstances in non-experimental data to identify situations (sometimes called "natural experiments") that provide the equivalent of experimental control and randomization. QEDs allow researchers in domains as diverse as sociology
+Training linear SVMs in linear time No contact information provided yet.
+Efficient and effective explanation of change in hierarchical summaries Dimension attributes in data warehouses are typically hierarchical (e.g.
+Anomaly pattern detection in categorical datasets We propose a new method for detecting patterns of anomalies in categorical datasets. We assume that anomalies are generated by some underlying process which affects only a particular subset of the data. Our method consists of two steps: we first use a "local anomaly detector" to identify individual records with anomalous attribute values
+Learning classifiers from only positive and unlabeled data The input to an algorithm that learns a binary classifier normally consists of two sets of examples
+A sequential dual method for large scale multi-class linear svms Efficient training of direct multi-class formulations of linear Support Vector Machines is very useful in applications such as text classification with a huge number examples as well as features. This paper presents a fast dual method for this training. The main idea is to sequentially traverse through the training set and optimize the dual variables associated with one example at a time. The speed of training is enhanced further by shrinking and cooling heuristics. Experiments indicate that our method is much faster than state of the art solvers such as bundle
+Anonymizing transaction databases for publication This paper considers the problem of publishing "transaction data" for research purposes. Each transaction is an arbitrary set of items chosen from a large universe. Detailed transaction data provides an electronic image of one's life. This has two implications. One
+Spectral domain-transfer learning Traditional spectral classification has been proved to be effective in dealing with both labeled and unlabeled data when these data are from the same domain. In many real world applications
+ArnetMiner: extraction and mining of academic social networks This paper addresses several key issues in the ArnetMiner system
+Relational learning via collective matrix factorization Relational learning is concerned with predicting unknown values of a relation
+Mobile call graphs: beyond power-law and lognormal distributions We analyze a massive social network
+Generating succinct titles for web URLs How can a search engine automatically provide the best and most appropriate title for a result URL (link-title) so that users will be persuaded to click on the URL? We consider the problem of automatically generating link-titles for URLs and propose a general statistical framework for solving this problem. The framework is based on using information from a diverse collection of sources
+Feedback effects between similarity and social influence in online communities A fundamental open question in the analysis of social networks is to understand the interplay between similarity and social ties. People are similar to their neighbors in a social network for two distinct reasons: first
+Mining adaptively frequent closed unlabeled rooted trees in data streams Closed patterns are powerful representatives of frequent patterns
+Succinct summarization of transactional databases: an overlapped hyperrectangle scheme Transactional data are ubiquitous. Several methods
+Effective and efficient itemset pattern summarization: regression-based approaches In this paper
+Combinational collaborative filtering for personalized community recommendation Rapid growth in the amount of data available on social networking sites has made information retrieval increasingly challenging for users. In this paper
+Reconstructing chemical reaction networks: data mining meets system identification We present an approach to reconstructing chemical reaction networks from time series measurements of the concentrations of the molecules involved. Our solution strategy combines techniques from numerical sensitivity analysis and probabilistic graphical models. By modeling a chemical reaction system as a Markov network (undirected graphical model)
+Unsupervised feature selection for principal components analysis Principal Components Analysis (PCA) is the predominant linear dimensionality reduction technique
+Privacy-preserving cox regression for survival analysis Privacy-preserving data mining (PPDM) is an emergent research area that addresses the incorporation of privacy preserving concerns to data mining techniques. In this paper we propose a privacy-preserving (PP) Cox model for survival analysis
+Application of kernels to link analysis No contact information provided yet.
+Partial least squares regression for graph mining Attributed graphs are increasingly more common in many application domains such as chemistry
+Get another label? improving data quality and data mining using multiple
+Factorization meets the neighborhood: a multifaceted collaborative filtering model Recommender systems provide users with personalized suggestions for products or services. These systems often rely on Collaborating Filtering (CF)
+Using ghost edges for classification in sparsely labeled networks We address the problem of classification in partially labeled networks (a.k.a. within-network classification) where observed class labels are sparse. Techniques for statistical relational learning have been shown to perform well on network classification tasks by exploiting dependencies between class labels of neighboring nodes. However
+Mining frequent item sets by opportunistic projection No contact information provided yet.
+Fast vertical mining using diffsets No contact information provided yet.
+Learning subspace kernels for classification Kernel methods have been applied successfully in many data mining tasks. Subspace kernel learning was recently proposed to discover an effective low-dimensional subspace of a kernel feature space for improved classification. In this paper
+Identifying biologically relevant genes via multiple heterogeneous data sources Selection of genes that are differentially expressed and critical to a particular biological process has been a major challenge in post-array analysis. Recent development in bioinformatics has made various data sources available such as mRNA and miRNA expression profiles
+Colibri: fast mining of large static and dynamic graphs Low-rank approximations of the adjacency matrix of a graph are essential in finding patterns (such as communities) and detecting anomalies. Additionally
+Hypergraph spectral learning for multi-label classification A hypergraph is a generalization of the traditional graph in which the edges are arbitrary non-empty subsets of the vertex set. It has been applied successfully to capture high-order relations in various domains. In this paper
+Extracting shared subspace for multi-label classification Multi-label problems arise in various domains such as multi-topic document categorization and protein function prediction. One natural way to deal with such problems is to construct a binary classifier for each label
+Community evolution in dynamic multi-mode networks A multi-mode network typically consists of multiple heterogeneous social actors among which various types of interactions could occur. Identifying communities in a multi-mode network can help understand the structural properties of the network
+To buy or not to buy: mining airfare data to minimize ticket purchase price No contact information provided yet.
+Learning from multi-topic web documents for contextual advertisement Contextual advertising on web pages has become very popular recently and it poses its own set of unique text mining challenges. Often advertisers wish to either target (or avoid) some specific content on web pages which may appear only in a small part of the page. Learning for these targeting tasks is difficult since most training pages are multi-topic and need expensive human labeling at the sub-document level for accurate training. In this paper we investigate ways to learn for sub-document classification when only page level labels are available - these labels only indicate if the relevant content exists in the given page or not. We propose the application of multiple-instance learning to this task to improve the effectiveness of traditional methods. We apply sub-document classification to two different problems in contextual advertising. One is "sensitive content detection" where the advertiser wants to avoid content relating to war
+Growing decision trees on support-less association rules An abstract is not available.
+Cluster-based concept invention for statistical relational learning No contact information provided yet.
+Spotting out emerging artists using geo-aware analysis of P2P query strings Record label companies would like to identify potential artists as early as possible in their careers
+Topical query decomposition We introduce the problem of query decomposition
+Training structural svms with kernels using sampled cuts Discriminative training for structured outputs has found increasing applications in areas such as natural language processing
+Classification with partial labels In this paper
+Joint optimization of wrapper generation and template detection Many websites have large collections of pages generated dynamically from an underlying structured source like a database. The data of a category are typically encoded into similar pages by a common script or template. In recent years
+Visually mining and monitoring massive time series No contact information provided yet.
+Composition attacks and auxiliary information in data privacy Privacy is an increasingly important aspect of data publishing. Reasoning about privacy
+Feature selection methods for text classification We consider feature selection for text classification both theoretically and empirically. Our main result is an unsupervised feature selection strategy for which we give worst-case theoretical guarantees on the generalization power of the resultant classification function f with respect to the classification function f obtained when keeping all the features. To the best of our knowledge
+Integrating feature and instance selection for text classification No contact information provided yet.
+Using graph-based metrics with empirical risk minimization to speed up active learning on networked data Active and semi-supervised learning are important techniques when labeled data are scarce. Recently a method was suggested for combining active learning with a semi-supervised learning algorithm that uses Gaussian fields and harmonic functions. This classifier is relational in nature: it relies on having the data presented as a partially labeled graph (also known as a within-network learning problem). This work showed yet again that empirical risk minimization (ERM) was the best method to find the next instance to label and provided an efficient way to compute ERM with the semi-supervised classifier. The computational problem with ERM is that it relies on computing the risk for all possible instances. If we could limit the candidates that should be investigated
+Knowledge transfer via multiple model local structure mapping The effectiveness of knowledge transfer using classification algorithms depends on the difference between the distribution that generates the training examples and the one from which test examples are to be drawn. The task can be especially difficult when the training examples are from one or several domains different from the test domain. In this paper
+Mining preferences from superior and inferior examples Mining user preferences plays a critical role in many important applications such as customer relationship management (CRM)
+A generalized maximum entropy approach to bregman co-clustering and matrix approximation No contact information provided yet.
+Information-theoretic co-clustering No contact information provided yet.
+Fast approximate spectral clustering Spectral clustering refers to a flexible class of clustering procedures that can produce high-quality clusterings on small data sets but which has limited applicability to large-scale problems due to its computational complexity of O(n3) in general
+Microscopic evolution of social networks We present a detailed study of network evolution by analyzing four large online social networks with full temporal information about node and edge arrivals. For the first time at such a large scale
+Mining time-changing data streams No contact information provided yet.
+A streaming ensemble algorithm (SEA) for large-scale classification No contact information provided yet.
+Domain-constrained semi-supervised mining of tracking models in sensor networks Accurate localization of mobile objects is a major research problem in sensor networks and an important data mining application. Specifically
+Quantification and semi-supervised classification methods for handling changes in class distribution In realistic settings the prevalence of a class may change after a classifier is induced and this will degrade the performance of the classifier. Further complicating this scenario is the fact that labeled data is often scarce and expensive. In this paper we address the problem where the class distribution changes and only unlabeled examples are available from the new distribution. We design and evaluate a number of methods for coping with this problem and compare the performance of these methods. Our quantification-based methods estimate the class distribution of the unlabeled data from the changed distribution and adjust the original classifier accordingly
+Empirical bayes screening for multi-item associations No contact information provided yet.
+Mining statistically important equivalence classes and delta-discriminative emerging patterns The support-confidence framework is the most common measure used in itemset mining algorithms
+Fast mining of high dimensional expressive contrast patterns using zero-suppressed binary decision diagrams No contact information provided yet.
+On detecting differences between groups No contact information provided yet.
+Collaborative crawling: mining user experiences for topical resource discovery No contact information provided yet.
+Predicting bounce rates in sponsored search advertisements This paper explores an important and relatively unstudied quality measure of a sponsored search advertisement: bounce rate. The bounce rate of an ad can be informally defined as the fraction of users who click on the ad but almost immediately move on to other tasks. A high bounce rate can lead to poor advertiser return on investment
+Probabilistic latent semantic visualization: topic model for visualizing documents We propose a visualization method based on a topic model for discrete data such as documents. Unlike conventional visualization methods based on pairwise distances such as multi-dimensional scaling
+Structured learning for non-smooth ranking losses Learning to rank from relevance judgment is an active research area. Itemwise score regression
+Fast collapsed gibbs sampling for latent dirichlet allocation In this paper we introduce a novel collapsed Gibbs sampling method for the widely used latent Dirichlet allocation (LDA) model. Our new method results in significant speedups on real world text corpora. Conventional Gibbs sampling schemes for LDA require O(K) operations per sample where K is the number of topics in the model. Our proposed method draws equivalent samples but requires on average significantly less then K operations per sample. On real-word corpora FastLDA can be as much as 8 times faster than the standard collapsed Gibbs sampler for LDA. No approximations are necessary
+Beyond blacklists: learning to detect malicious web sites from suspicious URLs Malicious Web sites are a cornerstone of Internet criminal activities. As a result
+Structured correspondence topic models for mining captioned figures in biological literature A major source of information (often the most crucial and informative part) in scholarly articles from scientific journals
+Efficiently learning the accuracy of labeling sources for selective sampling Many scalable data mining tasks rely on active learning to provide the most useful accurately labeled instances. However
+Mining broad latent query aspects from search sessions Search queries are typically very short
+BBM: bayesian browsing model from petabyte-scale data Given a quarter of petabyte click log data
+Constrained optimization for validation-guided conditional random field learning Conditional random fields(CRFs) are a class of undirected graphical models which have been widely used for classifying and labeling sequence data. The training of CRFs is typically formulated as an unconstrained optimization problem that maximizes the conditional likelihood. However
+Primal sparse Max-margin Markov networks Max-margin Markov networks (M3N) have shown great promise in structured prediction and relational learning. Due to the KKT conditions
+Meme-tracking and the dynamics of the news cycle Tracking new topics
+SNARE: a link analytic system for graph labeling and risk detection Classifying nodes in networks is a task with a wide range of applications. It can be particularly useful in anomaly and fraud detection. Many resources are invested in the task of fraud detection due to the high cost of fraud
+Drosophila gene expression pattern annotation using sparse features and term-term interactions The Drosophila gene expression pattern images document the spatial and temporal dynamics of gene expression and they are valuable tools for explicating the gene functions
+iSAX: indexing and mining terabyte sized time series Current research in indexing and mining time series data has produced many interesting algorithms and representations. However
+DynaMMo: mining and summarization of coevolving sequences with missing values Given multiple time sequences with missing values
+Query result clustering for object-level search Query result clustering has recently attracted a lot of attention to provide users with a succinct overview of relevant results. However
+Mining discrete patterns via binary matrix factorization Mining discrete patterns in binary data is important for subsampling
+Relational learning via latent social dimensions Social media such as blogs
+Large-scale sparse logistic regression Logistic Regression is a well-known classification method that has been used widely in many applications of data mining
+Information theoretic regularization for semi-supervised boosting We present novel semi-supervised boosting algorithms that incrementally build linear combinations of weak classifiers through generic functional gradient descent using both labeled and unlabeled training data. Our approach is based on extending information regularization framework to boosting
+Cut-and-stitch: efficient parallel learning of linear dynamical systems on smps Multi-core processors with ever increasing number of cores per chip are becoming prevalent in modern parallel computing. Our goal is to make use of the multi-core as well as multi-processor architectures to speed up data mining algorithms. Specifically
+Direct mining of discriminative and essential frequent patterns via model-based search tree Frequent patterns provide solutions to datasets that do not have well-structured feature vectors. However
+Analyzing patterns of user content generation in online social networks Various online social networks (OSNs) have been developed rapidly on the Internet. Researchers have analyzed different properties of such OSNs
+Collective annotation of Wikipedia entities in web text To take the first step beyond keyword-based search toward entity-based search
+Mining social networks for personalized email prioritization Email is one of the most prevalent communication tools today
+Semi-supervised learning with data calibration for long-term time series forecasting Many time series prediction methods have focused on single step or short term prediction problems due to the inherent difficulty in controlling the propagation of errors from one prediction step to the next step. Yet
+A visual-analytic toolkit for dynamic interaction graphs In this article we describe a visual-analytic tool for the interrogation of evolving interaction network data such as those found in social
+New ensemble methods for evolving data streams Advanced analysis of data streams is quickly becoming a key area of data mining research as the number of applications demanding such processing increases. Online mining when such data streams evolve over time
+The cost of privacy: destruction of data-mining utility in anonymized data publishing Re-identification is a major privacy threat to public datasets containing individual records. Many privacy protection algorithms rely on generalization and suppression of "quasi-identifier" attributes such as ZIP code and birthdate. Their objective is usually syntactic sanitization: for example
+Probabilistic frequent itemset mining in uncertain databases Probabilistic frequent itemset mining in uncertain transaction databases semantically and computationally differs from traditional techniques applied to standard "certain" transaction databases. The consideration of existential uncertainty of item(sets)
+Ranking-based clustering of heterogeneous information networks with star network schema A heterogeneous information network is an information network
+On compressing social networks Motivated by structural properties of the Web graph that support efficient data structures for in memory adjacency queries
+Modeling and predicting user behavior in sponsored search Implicit user feedback
+A parallel learning algorithm for text classification No contact information provided yet.
+Probabilistic workflow mining No contact information provided yet.
+On the potential of domain literature for clustering and Bayesian network learning No contact information provided yet.
+Is there a grand challenge or X-prize for data mining? No contact information provided yet.
+Tracking multiple topics for finding interesting articles We introduce multiple topic tracking (MTT) for iScore to better recommend news articles for users with multiple interests and to address changes in user interests over time. As an extension of the basic Rocchio algorithm
+Spatial-temporal causal modeling for climate change attribution Attribution of climate change to causal factors has been based predominantly on simulations using physical climate models
+Efficient influence maximization in social networks Influence maximization is the problem of finding a small subset of nodes (seed nodes) in a social network that could maximize the spread of influence. In this paper
+Connections between the lines: augmenting social networks with text Network data is ubiquitous
+Influence and correlation in social networks In many online social systems
+Named entity mining from click-through data using weakly supervised latent dirichlet allocation This paper addresses Named Entity Mining (NEM)
+Audience selection for on-line brand advertising: privacy-friendly social network targeting This paper describes and evaluates privacy-friendly methods for extracting quasi-social networks from browser behavior on user-generated content sites
+Large-scale behavioral targeting Behavioral targeting (BT) leverages historical user behavior to select the ads most relevant to users to display. The state-of-the-art of BT derives a linear Poisson regression model from fine-grained user behavioral data and predicts click-through rate (CTR) from user history. We designed and implemented a highly scalable and efficient solution to BT using Hadoop MapReduce framework. With our parallel algorithm and the resulting system
+Turning down the noise in the blogosphere In recent years
+Issues in evaluation of stream learning algorithms Learning from data streams is a research area of increasing importance. Nowadays
+Summarizing itemset patterns: a profile-based approach No contact information provided yet.
+Time series shapelets: a new primitive for data mining Classification of time series has been attracting great interest over the past decade. Recent empirical evidence has strongly suggested that the simple nearest neighbor algorithm is very difficult to beat for most time series problems. While this may be considered good news
+Differentially private recommender systems: building privacy into the net We consider the problem of producing recommendations from collective user behavior while simultaneously providing guarantees of privacy for these users. Specifically
+Clustering event logs using iterative partitioning The importance of event logs
+Combining email models for false positive reduction No contact information provided yet.
+Finding a team of experts in social networks Given a task T
