@@ -12,6 +12,7 @@ NLP algorithms implementd :
 			     - YAKE
 			     
 The pke library is used for the implementation
+
 Project's partner: @jeunefeu
 
 @InProceedings{boudin:2016:COLINGDEMO,
